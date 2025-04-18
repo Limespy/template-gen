@@ -1,2 +1,3 @@
-# template-gen
-Generic template
+# Generic Template
+
+Generic template for creating a repository
