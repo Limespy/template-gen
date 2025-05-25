@@ -1,6 +1,19 @@
 # General
+
 .*
-!.github
-!.gitignore
 *.local.*
 sandbox
+
+# Git
+
+!.gitignore
+!.gitkeep
+!.gitmodules
+
+## GitHub
+
+!.github
+
+## Pre-cómmit
+
+!.pre-commit-config.yaml
