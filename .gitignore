@@ -1,6 +1,15 @@
 # General
+
 .*
-!.github
-!.gitignore
 *.local.*
 sandbox
+
+# Git
+
+!.gitignore
+!.gitkeep
+!.gitmodules
+
+## GitHub
+
+!.github
