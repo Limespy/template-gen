@@ -13,3 +13,7 @@ sandbox
 ## GitHub
 
 !.github
+
+## Pre-cómmit
+
+!.pre-commit-config.yaml
